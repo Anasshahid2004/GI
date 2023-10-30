@@ -1,0 +1,6 @@
+cmd.exe /K C:\Users\dell\anaconda3\Scripts\activate.bat
+%USERPROFILE%\anaconda3\Menu\anaconda-navigator.icon
+numpy
+pandas
+jupyter 
+mypy
